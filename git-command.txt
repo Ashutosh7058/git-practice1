@@ -32,3 +32,4 @@ git reset
 git revert
 git stash
 git stash pop
+git pull
