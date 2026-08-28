@@ -1,0 +1,34 @@
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git init
+git status
+git add .
+git add filename
+git commit -m "commit message"
+git log
+git log --oneline
+git rm filename
+git rm --cached filename
+git restore filename
+git restore --staged filename
+git branch
+git branch branch-name
+git switch branch-name
+git switch -c branch-name
+git checkout branch-name
+git merge branch-name
+git branch -d branch-name
+git remote -v
+git remote add origin <repository-url>
+git push -u origin main
+git push
+git pull
+git clone <repository-url>
+git diff
+git show
+git fetch
+git reset
+git revert
+git stash
+git stash pop
