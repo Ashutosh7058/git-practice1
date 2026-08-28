@@ -36,3 +36,5 @@ git stash pop
 
 
 git new changes added
+
+git add new
