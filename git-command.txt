@@ -27,9 +27,18 @@ git pull
 git clone <repository-url>
 git diff
 git show
+git pratham
 git fetch
 git reset
 git revert
 git stash
 git stash pop
+<<<<<<< HEAD
 git pull
+=======
+
+
+git new changes added
+
+git add new
+>>>>>>> c0a06417316e284d039e0f08eb5d1bd662f554a4
