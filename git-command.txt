@@ -27,6 +27,7 @@ git pull
 git clone <repository-url>
 git diff
 git show
+git pratham
 git fetch
 git reset
 git revert
